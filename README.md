@@ -1,2 +1,3 @@
 # IrisDataset-NaiveBayesClustering
-Application of Gaussian Naive Bayes on Iris Dataset as a class assignment.
+
+This project is dedicated solely to learn the application of Gaussian Naive Bayes on Iris Dataset **without the use of machine learning libraries**.
