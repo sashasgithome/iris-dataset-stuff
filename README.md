@@ -1,4 +1,4 @@
-## IrisDataset-NaiveBayesClustering
+## Naive Bayes Clustering on Iris Dataset 
 
 #### ⭐ Project Name : Iris Dataset Clustering with Naive Bayes
 #### ⌛ Related Class : Machine Learning
